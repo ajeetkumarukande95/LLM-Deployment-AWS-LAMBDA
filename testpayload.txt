@@ -1,0 +1,7 @@
+{
+  "httpMethod": "GET",
+  "path": "/example",
+  "queryStringParameters": {
+    "query": "Write an article for Artificial Intelligence"
+  }
+}
